@@ -6,7 +6,7 @@ const Puntaje = ({ name, puntaje, setTotal, total, setPosicion }) => {
     const total1 = total;
     total1.push({ name: name, puntaje: puntaje });
     setTotal(total1);
-    setPosicion(5);
+    setPosicion(12);
   };
   return (
     <div className="contenedor">

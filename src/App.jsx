@@ -16,9 +16,8 @@ function App() {
       {posicion == 0 && (
         <Inicio name={name} setName={setName} setPosicion={setPosicion} />
       )}
-      {posicion > 0 && posicion < 4 && (
+      {posicion > 0 && posicion < 11 && (
         <Preguntas
-          Categoria={preguntas[posicion - 1].categoria}
           numero={posicion}
           pregunta={preguntas[posicion - 1].pregunta}
           respuestas={preguntas[posicion - 1].respuestas}
@@ -29,7 +28,7 @@ function App() {
           setPuntaje={setPuntaje}
         />
       )}
-      {posicion == 4 && (
+      {posicion == 11 && (
         <Puntaje
           name={name}
           puntaje={puntaje}
@@ -38,7 +37,7 @@ function App() {
           setPosicion={setPosicion}
         />
       )}
-      {posicion == 5 && (
+      {posicion == 12 && (
         <Lista
           setPosicion={setPosicion}
           total={total}

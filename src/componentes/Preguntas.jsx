@@ -22,13 +22,7 @@ const Preguntas = ({
   };
   return (
     <div className="contenedor">
-      <div className="puntaje" id="puntaje">
-        10
-      </div>
       <div className="encabezado">
-        <div className="categoria" id="categoria">
-          {Categoria}
-        </div>
         <div className="numero" id="numero">
           {numero}
         </div>
