@@ -37,7 +37,9 @@ body {
 .pregunta {
   padding: 10px;
 }
-
+.question {
+  font-size: 30;
+}
 .imagen {
   object-fit: cover;
   height: 0px;

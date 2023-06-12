@@ -2,7 +2,6 @@ import React from "react";
 import "../App.css";
 
 const Preguntas = ({
-  Categoria,
   numero,
   pregunta,
   respuestas,
@@ -27,7 +26,7 @@ const Preguntas = ({
           {numero}
         </div>
         <div className="pregunta" id="pregunta">
-          <h2>{pregunta}</h2>
+          <p className="question">{pregunta}</p>
         </div>
       </div>
       <div className="btn" id="btn1" onClick={() => onClick(0)}>
