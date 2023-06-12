@@ -12,14 +12,14 @@ export const preguntas = [
   },
   {
     pregunta:
-      "¿Quién fue el filósofo griego que pensó sobre lo estético en sus diálogos?",
+      "El concepto de lo bello se ha transformado de acuerdo a los diferentes periodos históricos por ejemplo, Las nociones clásicas de la Antigüedad, que hacían coincidir lo bueno, lo bello y lo verdadero, en el medievo se consideraba bello aquello que cumpliera con los valores cristianos mientras que en el Renacimiento se volvió a un concepto de belleza como ideal de formas y proporciones. La modernidad, por su parte, pensó una idea de belleza asimilada no al objeto sino al ojo del artista, según lo anterior se puede afirmar que la idea de lo bello",
     respuestas: {
-      res1: "Platón",
-      res2: "Sócrates",
-      res3: "Aristóteles",
-      res4: "Epicuro",
+      res1: "cambia entre el medievo y el renacimiento ya que en una se basa en la moral y la otra en proporciones Platón",
+      res2: "La idea de lo bello se mantiene estática en todos los periodos históricos",
+      res3: "cambia de una época a otra. Lo que en algunas épocas se  consideraba  bello o agradable, en otras era visto como  feo, mundano o incomprensible",
+      res4: "Es igual en el renacimiento y el romanticismo ",
     },
-    respuesta: 0,
+    respuesta: 2,
   },
   {
     pregunta:
@@ -33,9 +33,10 @@ export const preguntas = [
     respuesta: 2,
   },
   {
-    pregunta: "¿Cuál es la diferencia entre lo bello y lo sublime según Kant?",
+    pregunta:
+      " Según kant dentro de la estetica se encuentran dos conceptos, lo bello y lo sublime que se, kant define a lo bello como aquello que nos impulsa a la vida y puede unirse con el encanto y la imaginación ,mientas a lo sublime como un placer que nace de forma indirecta gracias a la suspensión de nuestras facultades vitales. Es un placer negativo, aun cuando siga siendo una forma de placer. Por lo tanto se puede inferir que la diferencia entre lo bello y lo sublime es: ",
     respuestas: {
-      res1: "Lo bello produce placer positivo, lo sublime produce placer negativo",
+      res1: " Lo bello produce placer positivo, lo sublime produce placer negativo",
       res2: "Lo bello es un placer negativo, lo sublime es un placer positivo",
       res3: "Lo bello es una forma de placer directa, lo sublime es una forma de placer indirecta",
       res4: "Lo bello se basa en la moral, lo sublime se basa en la estética",
@@ -55,14 +56,14 @@ export const preguntas = [
   },
   {
     pregunta:
-      "¿Cuál fue el primer filósofo en dar forma teórica a los juicios de lo bello y lo sublime?",
+      "Según la teoría de la estetica la forma en la que se categoriza si algo es bello o sublime es mediante al juicio, el primero en dar forma teórica a esto de manera sistemática fue I. Kant. En La crítica del juicio donde explica y reflexiona acerca del significado del juicio, su origen y la razón por la que algo nos parece sublime o bello, por lo tanto Se puede entender al juicio como: ",
     respuestas: {
-      res1: "Alexanger Baumgarten",
-      res2: "Edmund Burke ",
-      res3: "Immanuel Kant",
-      res4: "Friedrich Nietzsche",
+      res1: "Aquel que juzga a lo bello como pacer positivo y a lo sublime como placer negativo",
+      res2: "Aquel que a través de la reflexión funciona como un intermediario entre el entendimiento y la razón ",
+      res3: "Aquello que juzga solo a lo bello",
+      res4: "Aquello que juzga solo a lo sublime ",
     },
-    respuesta: 2,
+    respuesta: 1,
   },
   {
     pregunta:
@@ -88,23 +89,23 @@ export const preguntas = [
   },
   {
     pregunta:
-      "¿Quién fue el filósofo irlandés que también se ocupó de pensar las categorías de lo bello y lo sublime?",
+      "El concepto de lo bello se ha transformado de acuerdo a los diferentes periodos históricos por ejemplo, Las nociones clásicas de la Antigüedad, que hacían coincidir lo bueno, lo bello y lo verdadero, en el medievo se consideraba bello aquello que cumpliera con los valores cristianos mientras que en el Renacimiento se volvió a un concepto de belleza como ideal de formas y proporciones. La modernidad, por su parte, pensó una idea de belleza asimilada no al objeto sino al ojo del artista, según lo anterior se puede afirmar que la idea de lo bello ",
     respuestas: {
-      res1: "Alexanger Baumgarten",
-      res2: "Edmund Burke ",
-      res3: "Immanuel Kant",
-      res4: "Friedrich Nietzsche",
+      res1: "cambia entre el medievo y el renacimiento ya que en una se basa en la moral y la otra en proporciones ",
+      res2: "La idea de lo bello se mantiene estática en todos los periodos históricos ",
+      res3: "cambia de una época a otra. Lo que en algunas épocas se  consideraba  bello o agradable, en otras era visto como  feo, mundano o incomprensible ",
+      res4: "Es igual en el renacimiento y el romanticismo ",
     },
-    respuesta: 1,
+    respuesta: 2,
   },
   {
     pregunta:
-      "¿En qué siglo se publicó la Crítica del juicio de Immanuel Kant?",
+      "¿Qué período estético se caracterizó por la influencia del pensamiento cristiano? ",
     respuestas: {
-      res1: "Siglo XVII",
-      res2: "Siglo XVIII",
-      res3: "Siglo XIX",
-      res4: "Siglo XX",
+      res1: "Estética clásica",
+      res2: "Estética medieval",
+      res3: "Estética moderna",
+      res4: "Estética contemporánea",
     },
     respuesta: 1,
   },
